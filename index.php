@@ -1,6 +1,5 @@
 <html>
 <meta charset="UTF-8">
-<script src="//fightforthefuture.github.io/reset-the-net-widget/widget/rtn.js" async></script>
 <script src= "js/jquery.js"></script>
 <link rel="stylesheet" href="css/bootstrap.css"></link>
 <script src = "js/bootstrap.js" ></script>
