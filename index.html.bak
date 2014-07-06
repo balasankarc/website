@@ -1,4 +1,5 @@
-<html>
+<?
+echo '<html>
 <meta charset="UTF-8">
 <script src="//fightforthefuture.github.io/reset-the-net-widget/widget/rtn.js" async></script>
 <script src= "js/jquery.js"></script>
@@ -34,26 +35,10 @@ src:url(rachana.ttf);
         <br /><br />
         <div style="bottom:1%;position:absolute;">
 <!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=9029828; 
-var sc_invisible=1; 
-var sc_security="b9e2ca5d"; 
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="create counter"
-href="http://statcounter.com/free-hit-counter/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/9029828/0/b9e2ca5d/1/"
-alt="create counter"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
-
 <script>
-$(document).ready(function(){ $("[data-toggle='tooltip']").tooltip(); });
+$(document).ready(function(){ $("[data-toggle=\"tooltip\"]").tooltip(); });
 </script>
     </body>
-</html>
+</html>';
+?>
 
